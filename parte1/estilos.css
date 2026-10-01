@@ -64,7 +64,7 @@ body {
 .menu a:hover { 
     text-decoration: underline; 
 }
-/* 5. Portada y botón */
+/* portada y botón */
 .portada {
     background: var(--verde-claro);
     text-align: center;
@@ -92,7 +92,7 @@ body {
 .boton:hover { 
     background: #1e482f; 
 }
-/* 6. Tarjetas de ramos */
+/* tarjetas de ramos */
 .ramos { 
     padding: 2.5rem 0; 
 }
@@ -127,4 +127,10 @@ body {
     color: var(--verde); 
     font-size: 1.25rem; 
     font-weight: bold; 
+}
+.pie {
+    background: var(--verde);
+    color: #ffffff;
+    text-align: center;
+    padding: 1.25rem 0;
 }
